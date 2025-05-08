@@ -46,15 +46,18 @@ cd BookActivity
 npm install
 
 ### 3. Create a .env file
+```env
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
+```
 
 ### 4. Run the server
 nodemon index.js
 
 ## 🚀 Project Structure
 
+```
 BookActivity/
 ├── config/           # Database connection logic
 ├── controllers/      # Business logic for each endpoint
@@ -64,4 +67,6 @@ BookActivity/
 ├── server.js         # Entry point
 ├── .env              # Environment variables
 └── README.md         # Project documentation
+```
+
 
