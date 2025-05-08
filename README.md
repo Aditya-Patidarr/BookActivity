@@ -15,7 +15,6 @@ A RESTful API built with **Node.js**, **Express.js**, and **MongoDB**, designed 
 - 💾 MongoDB + Mongoose for data storage
 - 📁 Clean and modular folder structure
 - 🧪 Postman collection included for testing
-- ☁️ Hosted live API on [Render](https://render.com)
 
 ---
 
