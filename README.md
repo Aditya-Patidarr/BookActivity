@@ -63,7 +63,7 @@ BookActivity/
 ├── middlewares/      # Authentication middleware
 ├── models/           # Mongoose schemas for DB
 ├── routes/           # API route definitions
-├── server.js         # Entry point
+├── index.js         # Entry point
 ├── .env              # Environment variables
 └── README.md         # Project documentation
 ```
