@@ -38,8 +38,8 @@ A RESTful API built with **Node.js**, **Express.js**, and **MongoDB**, designed 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/activity-booking-app.git
-cd activity-booking-app
+git clone https://github.com/Aditya-Patidarr/BookActivity.git
+cd BookActivity
 ```
 
 ### 2. Install Dependencies
