@@ -20,7 +20,7 @@ app.use('/api/auth', authRoutes);
 app.use('/api/activities', activityRoutes);
 app.use('/api/bookings', bookingRoutes);
 app.get('/',(req,res)=>{
-  res.status(200).json({ message: "Book Activity App" });
+  res.status(200).send("Book Activity App");
 });
 
 app.listen(PORT, () => {
